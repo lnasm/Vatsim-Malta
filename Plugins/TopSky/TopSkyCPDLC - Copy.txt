@@ -1,0 +1,20 @@
+[DCL]
+DCL:LMML:AHDG:<adep2> PDC <number> . . . . . CLD <hour><min> <year2><month2><day> <adep2> PDC <number> <callsign> <endheader>CLEARED TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> ALT <cfl> SQUAWK <assr> <nfreq> <qnh> <startup> <rmk>
+DCL:LMML:SID:<adep2> PDC <number> . . . . .  CLD <hour><min> <year2><month2><day> <adep2> PDC <number> <callsign> <endheader>CLEARED TO <ades> OFF <drwy> VIA <sid> TO <npt> ALT <cfl> SQUAWK <assr> <nfreq> <qnh> <startup> <rmk>
+
+[FREETEXT]
+FREETEXT:R:INDENTIFICATION SERVICE TERMINATED
+FREETEXT:R:ALL ATS TERMINATED
+FREETEXT:R:IDENTIFICATION SERVICE TERMINATED
+FREETEXT:R:NO DELAY EXPECTED
+FREETEXT:R:DELAY NOT DETERMINED
+FREETEXT:R:CALL ON VOICE 15NM PRIOR TO TOD
+
+
+[STATIONS]
+LOGIN:LMML:MALTA:MMD
+LOGIN:LMML:MALTA:MMG
+LOGIN:LMML:MALTA:MMT
+LOGIN:LMML:MALTA:MML
+LOGIN:LMML:MALTA:MMM
+LOGIN:LMML:MALTA:MME
