@@ -1,0 +1,9 @@
+VOICE
+AG:LMML_ATIS:127.400:x:lmml_atis
+AG:LMML_GND:121.600:x:lmml_gnd
+AG:LMML_TWR:135.100:x:lmml_twr
+AG:LMML_APP:128.150:x:lmml_app
+AG:LMMM_CTR:130.970:x:lmmm_ctr
+AG:LMMM_E_CTR:133.620:x:lmmm_e_ctr
+AG:LICD_TWR:123.500:x:licd_twr
+END

@@ -1,0 +1,30 @@
+PROFILE
+PROFILE:_OBS:150:1
+ATIS2:
+ATIS3:
+ATIS4:
+PROFILE:LMML_GND:30:3
+ATIS2:Luqa Ground
+ATIS3:DCL / PDC available LMML
+ATIS4:www.vats.im/malta <-- please visit for procedures and info
+PROFILE:LMML_TWR:50:4
+ATIS2:Luqa Tower
+ATIS3:DCL / PDC available LMML
+ATIS4:www.vats.im/malta <-- please visit for procedures and info
+PROFILE:LMML_APP:150:5
+ATIS2:Luqa Radar
+ATIS3:DCL / PDC available LMML
+ATIS4:www.vats.im/malta <-- please visit for procedures and info
+PROFILE:LMMM_CTR:300:6
+ATIS2:Malta Control
+ATIS3:DCL / PDC available LMMM
+ATIS4:www.vats.im/malta <-- please visit for procedures and info
+PROFILE:LMMM_E_CTR:300:6
+ATIS2:Malta Control
+ATIS3:DCL / PDC available LMML
+ATIS4:www.vats.im/malta <-- please visit for procedures and info
+PROFILE:ASM_OBS:150:0
+ATIS2:
+ATIS3:
+ATIS4:
+END
